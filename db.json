@@ -1,12 +1,12 @@
 {
   "users":[
     {
-      "name":"vraj"
+      "username": "vraj",
+      "avatar": "https://avatars.githubusercontent.com/u/108019045?v=4",
+      "email": "vraj@gmail.com",
+      "password": "vraj",
+      "id": 1
     }
   ],
-  "blogs":[
-    {
-      "naem":"raj"
-    }
-  ]
+  "blogs":[]
 }
