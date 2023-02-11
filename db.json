@@ -1,4 +1,12 @@
 {
-  "users":[],
-  "blogs":[]
+  "users":[
+    {
+      "name":"vraj"
+    }
+  ],
+  "blogs":[
+    {
+      "naem":"raj"
+    }
+  ]
 }
